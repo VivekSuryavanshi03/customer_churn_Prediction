@@ -8,7 +8,20 @@ This project is all about creating a model that can predict customer churn for a
 
 
 ## 🔗 Links
-[![GIthub](https://github.com/VivekSuryavanshi03)](https://github.com/VivekSuryavanshi03)
-[![linkedin](https://www.linkedin.com/in/viveksuryawanshi03/)](https://www.linkedin.com/in/viveksuryawanshi03)
+<p align="left">
+  <a href="https://github.com/VivekSuryavanshi03">
+    <img src="https://github.com/fluidicon.png" alt="GitHub" width="50" height="50">
+  </a>
+</p>
+
+<p align="right">
+  <a href="https://www.linkedin.com/in/viveksuryawanshi03">
+    <img src="https://static.licdn.com/sc/h/2if24wp7oqlodqdlgei1n1520" alt="LinkedIn" width="50" height="50">
+  </a>
+</p>
+
+
+
+
 
 
